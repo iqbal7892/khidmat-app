@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9846172617",
+    "project_id": "themeteor-be69b",
+    "storage_bucket": "themeteor-be69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9846172617:android:d8e3f9775e827fb2219618",
+        "android_client_info": {
+          "package_name": "com.themeteor.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX44nWewWtdmb9TSyIOwGj7L49XdQCm4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+===== new tranlations ===========
+all_fee_rates
+Pair Specific Fee
+s_aff_request_under_review
+
+s_phising_code_updated
+no_trades_found
+
+Are you sure you want to cancel all open orders?
+
+Position closed Successfully
+
+This link allready taken, Please try with other one.
+
+
+Please Enter the Address
+Please check Your Email to confirm the withdraw request
+
+===== new Keys ==============
+
+link copied successfully
+copy URL
+

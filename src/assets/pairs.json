@@ -1,0 +1,1082 @@
+[
+    {
+        "id": 1,
+        "name": "BTC/USDT",
+        "volume": 10,
+        "rate": 47180.9,
+        "rateUsd": 47180.9,
+        "prevDayPrice": 47180.9
+    },
+    {
+        "id": 2,
+        "name": "ETH/BTC",
+        "volume": 0.04862922,
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997,
+        "prevDayPrice": 0.069032
+    },
+    {
+        "id": 3,
+        "name": "CROSS/BTC",
+        "volume": 0.00047362,
+        "rate": 0.00000238,
+        "rateUsd": 0.11229054200000001,
+        "prevDayPrice": 0.00000238
+    },
+    {
+        "id": 4,
+        "name": "CROSS/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 5,
+        "name": "CROSS/ETH",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 6,
+        "name": "ETH/USDT",
+        "volume": 378.86,
+        "rate": 2693.07,
+        "rateUsd": 2693.07,
+        "prevDayPrice": 2693.07
+    },
+    {
+        "id": 7,
+        "name": "LTC/USDT",
+        "volume": 1048.44,
+        "rate": 131.16,
+        "rateUsd": 131.16,
+        "prevDayPrice": 131.16
+    },
+    {
+        "id": 8,
+        "name": "DASH/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 9,
+        "name": "LTC/BTC",
+        "volume": 0.00983988,
+        "rate": 0.004017,
+        "rateUsd": 189.5256753,
+        "prevDayPrice": 0.004017
+    },
+    {
+        "id": 10,
+        "name": "DASH/BTC",
+        "volume": 0.00017541,
+        "rate": 0.003794,
+        "rateUsd": 179.00433460000002,
+        "prevDayPrice": 0.003794
+    },
+    {
+        "id": 11,
+        "name": "LTC/ETH",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 12,
+        "name": "DASH/ETH",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 13,
+        "name": "LTC/CROSS",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 14,
+        "name": "DASH/CROSS",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 15,
+        "name": "ADA/USDT",
+        "volume": 34.629464,
+        "rate": 1.27784,
+        "rateUsd": 1.27784,
+        "prevDayPrice": 1.27784,
+    },
+    {
+        "id": 16,
+        "name": "ADA/BTC",
+        "volume": 0.00106083,
+        "rate": 0.00003929,
+        "rateUsd": 1.853737561,
+        "prevDayPrice": 0.00003929
+    },
+    {
+        "id": 17,
+        "name": "ADA/ETH",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 18,
+        "name": "XLM/BTC",
+        "volume": 0.017784,
+        "rate": 0.0000072,
+        "rateUsd": 0.33970248,
+        "prevDayPrice": 0.0000072
+    },
+    {
+        "id": 19,
+        "name": "FTR/BTC",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 20,
+        "name": "TRX/BTC",
+        "volume": 0.01648374,
+        "rate": 0.00000182,
+        "rateUsd": 0.085869238,
+        "prevDayPrice": 0.00000182
+    },
+    {
+        "id": 21,
+        "name": "BTT/USDT",
+        "volume": 105.0029376,
+        "rate": 0.0024112,
+        "rateUsd": 0.0024112,
+        "prevDayPrice": 0.0024112
+    },
+    {
+        "id": 22,
+        "name": "XRP/BTC",
+        "volume": 0.00165561,
+        "rate": 0.00001903,
+        "rateUsd": 0.897852527,
+        "prevDayPrice": 0.00001903
+    },
+    {
+        "id": 23,
+        "name": "EOS/USDT",
+        "volume": 126.971346,
+        "rate": 3.9903,
+        "rateUsd": 3.9903,
+        "prevDayPrice": 3.9903
+    },
+    {
+        "id": 24,
+        "name": "BCH/BTC",
+        "volume": 0.00010117,
+        "rate": 0.014453,
+        "rateUsd": 681.9055477,
+        "prevDayPrice": 0.014453
+    },
+    {
+        "id": 25,
+        "name": "BCH/USDT",
+        "volume": 457.7,
+        "rate": 475.85,
+        "rateUsd": 475.85,
+        "prevDayPrice": 475.85
+    },
+    {
+        "id": 26,
+        "name": "ETC/BTC",
+        "volume": 0.00002839,
+        "rate": 0.0014197,
+        "rateUsd": 66.98272373,
+        "prevDayPrice": 0.0014197
+    },
+    {
+        "id": 27,
+        "name": "NEO/BTC",
+        "volume": 0.0170816,
+        "rate": 0.0010048,
+        "rateUsd": 47.407368319999996,
+        "prevDayPrice": 0.0010048
+    },
+    {
+        "id": 28,
+        "name": "QTUM/BTC",
+        "volume": 0.00059799,
+        "rate": 0.0001929,
+        "rateUsd": 9.10119561,
+        "prevDayPrice": 0.0001929
+    },
+    {
+        "id": 29,
+        "name": "XRP/USDT",
+        "volume": 12.4348,
+        "rate": 0.62174,
+        "rateUsd": 0.62174,
+        "prevDayPrice": 0.62174
+    },
+    {
+        "id": 30,
+        "name": "EOS/BTC",
+        "volume": 0.00000482,
+        "rate": 0.0001205,
+        "rateUsd": 5.68529845,
+        "prevDayPrice": 0.0001205
+    },
+    {
+        "id": 31,
+        "name": "BTCx-1",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 32,
+        "name": "BTCx3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 33,
+        "name": "BTCx-3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 34,
+        "name": "TRX/USDT",
+        "volume": 17.21,
+        "rate": 0.01721,
+        "rateUsd": 0.01721,
+        "prevDayPrice": 0.01721
+    },
+    {
+        "id": 35,
+        "name": "NEO/USDT",
+        "volume": 197.27,
+        "rate": 33.24,
+        "rateUsd": 33.24,
+        "prevDayPrice": 33.24
+    },
+    {
+        "id": 36,
+        "name": "LINK/USDT",
+        "volume": 500.04,
+        "rate": 17.22,
+        "rateUsd": 17.22,
+        "prevDayPrice": 17.22
+    },
+    {
+        "id": 37,
+        "name": "LINK/BTC",
+        "volume": 0.0026373,
+        "rate": 0.00052746,
+        "rateUsd": 24.886037514,
+        "prevDayPrice": 0.00052746
+    },
+    {
+        "id": 38,
+        "name": "DMSFT/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 39,
+        "name": "DFB/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 40,
+        "name": "DAMZN/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 41,
+        "name": "DAAPL/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 42,
+        "name": "DTSLA/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 43,
+        "name": "BAT/BTC",
+        "volume": 0.01473036,
+        "rate": 0.00001654,
+        "rateUsd": 0.7803720860000001,
+        "prevDayPrice": 0.00001654
+    },
+    {
+        "id": 44,
+        "name": "BAT/USDT",
+        "volume": 241.186684,
+        "rate": 0.5491,
+        "rateUsd": 0.5491,
+        "prevDayPrice": 0.5491
+    },
+    {
+        "id": 45,
+        "name": "ZRX/BTC",
+        "volume": 0.01044108,
+        "rate": 0.00002231,
+        "rateUsd": 1.0526058790000001,
+        "prevDayPrice": 0.00002231
+    },
+    {
+        "id": 46,
+        "name": "ZRX/USDT",
+        "volume": 463.01595,
+        "rate": 0.7367,
+        "rateUsd": 0.7367,
+        "prevDayPrice": 0.7367
+    },
+    {
+        "id": 47,
+        "name": "OMG/BTC",
+        "volume": 0.01880418,
+        "rate": 0.0001212,
+        "rateUsd": 5.7183250800000005,
+        "prevDayPrice": 0.0001212
+    },
+    {
+        "id": 48,
+        "name": "OMG/USDT",
+        "volume": 11.0334,
+        "rate": 3.9405,
+        "rateUsd": 3.9405,
+        "prevDayPrice": 3.9405
+    },
+    {
+        "id": 49,
+        "name": "LEND/BTC",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 50,
+        "name": "LEND/USDT",
+        "rate": 0.069032,
+        "rateUsd": 3256.9918887999997
+    },
+    {
+        "id": 51,
+        "name": "KNC/BTC",
+        "volume": 0.00836198,
+        "rate": 0.00004378,
+        "rateUsd": 2.065579802,
+        "prevDayPrice": 0.00004378
+    },
+    {
+        "id": 52,
+        "name": "KNC/USDT",
+        "volume": 72.677167,
+        "rate": 1.459,
+        "rateUsd": 1.459,
+        "prevDayPrice": 1.459
+    },
+    {
+        "id": 53,
+        "name": "XTZ/BTC",
+        "volume": 0.01020119,
+        "rate": 0.0000869,
+        "rateUsd": 4.10002021,
+        "prevDayPrice": 0.0000869
+    },
+    {
+        "id": 54,
+        "name": "XTZ/USDT",
+        "volume": 490.941266,
+        "rate": 2.8747,
+        "rateUsd": 2.8747,
+        "prevDayPrice": 2.8747
+    },
+    {
+        "id": 55,
+        "name": "AAVE/BTC",
+        "volume": 0.00104904,
+        "rate": 0.008742,
+        "rateUsd": 412.4554278,
+        "prevDayPrice": 0.008742
+    },
+    {
+        "id": 56,
+        "name": "AAVE/USDT",
+        "volume": 42.82,
+        "rate": 289.35,
+        "rateUsd": 289.35,
+        "prevDayPrice": 289.35
+    },
+    {
+        "id": 57,
+        "name": "UNI/BTC",
+        "volume": 0.013992,
+        "rate": 0.000583,
+        "rateUsd": 27.5064647,
+        "prevDayPrice": 0.000583
+    },
+    {
+        "id": 58,
+        "name": "UNI/USDT",
+        "volume": 334.67,
+        "rate": 19.21,
+        "rateUsd": 19.21,
+        "prevDayPrice": 19.21
+    },
+    {
+        "id": 59,
+        "name": "EXMR/BTC",
+        "volume": 0.00530783,
+        "rate": 0.00000245,
+        "rateUsd": 0.11559320499999999,
+        "prevDayPrice": 0.00000245
+    },
+    {
+        "id": 60,
+        "name": "EXMR/USDT",
+        "volume": 104.79252,
+        "rate": 0.084,
+        "rateUsd": 0.084,
+        "prevDayPrice": 0.084
+    },
+    {
+        "id": 61,
+        "name": "ETHx3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 62,
+        "name": "ETHx-3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 63,
+        "name": "SNX/BTC",
+        "volume": 0.0122832,
+        "rate": 0.00036,
+        "rateUsd": 16.985124000000003,
+        "prevDayPrice": 0.00036
+    },
+    {
+        "id": 64,
+        "name": "SNX/USDT",
+        "volume": 193.78,
+        "rate": 11.91,
+        "rateUsd": 11.91,
+        "prevDayPrice": 11.91
+    },
+    {
+        "id": 65,
+        "name": "BAND/BTC",
+        "volume": 0.00140665,
+        "rate": 0.00019812,
+        "rateUsd": 9.347479908,
+        "prevDayPrice": 0.00019812
+    },
+    {
+        "id": 66,
+        "name": "BAND/USDT",
+        "volume": 15.039451,
+        "rate": 6.4547,
+        "rateUsd": 6.4547,
+        "prevDayPrice": 6.4547
+    },
+    {
+        "id": 67,
+        "name": "GME/USDT",
+        "volume": 1485.89,
+        "rate": 190.32,
+        "rateUsd": 190.32,
+        "prevDayPrice": 190.32
+    },
+    {
+        "id": 68,
+        "name": "DOT/BTC",
+        "volume": 0.01350484,
+        "rate": 0.00064004,
+        "rateUsd": 30.197663236000004,
+        "prevDayPrice": 0.00064004
+    },
+    {
+        "id": 69,
+        "name": "DOT/USDT",
+        "volume": 2971.78,
+        "rate": 23.67,
+        "rateUsd": 23.67,
+        "prevDayPrice": 23.67
+    },
+    {
+        "id": 70,
+        "name": "SAFEMOON/USDT",
+        "volume": 21.3446233,
+        "rate": 0.00000385,
+        "rateUsd": 0.00000385,
+        "prevDayPrice": 0.00000385
+    },
+    {
+        "id": 71,
+        "name": "BONFIRE/USDT",
+        "volume": 21.44912301,
+        "rate": 3.484e-8,
+        "rateUsd": 3.484e-8,
+        "prevDayPrice": 3.484e-8
+    },
+    {
+        "id": 72,
+        "name": "LAYER/USDT",
+        "volume": 509.273722,
+        "rate": 0.5797,
+        "rateUsd": 0.5797,
+        "prevDayPrice": 0.5797
+    },
+    {
+        "id": 73,
+        "name": "SHIB/USDT",
+        "volume": 7619.46292822,
+        "rate": 0.00000894,
+        "rateUsd": 0.00000894,
+        "prevDayPrice": 0.00000894
+    },
+    {
+        "id": 74,
+        "name": "ELONGATE/USDT",
+        "volume": 20.00000002,
+        "rate": 5.005e-8,
+        "rateUsd": 5.005e-8,
+        "prevDayPrice": 5.005e-8
+    },
+    {
+        "id": 75,
+        "name": "CAKE/USDT",
+        "volume": 10933.47,
+        "rate": 19.33,
+        "rateUsd": 19.33,
+        "prevDayPrice": 19.33
+    },
+    {
+        "id": 76,
+        "name": "SDX/USDT",
+        "volume": 98.703836,
+        "rate": 0.11045,
+        "rateUsd": 0.11045,
+        "prevDayPrice": 0.11045
+    },
+    {
+        "id": 77,
+        "name": "LAS/USDT",
+        "volume": 22.98405151,
+        "rate": 1.7e-7,
+        "rateUsd": 1.7e-7,
+        "prevDayPrice": 1.7e-7
+    },
+    {
+        "id": 78,
+        "name": "NAFT/USDT",
+        "volume": 417.315546,
+        "rate": 0.05769,
+        "rateUsd": 0.05769,
+        "prevDayPrice": 0.05769
+    },
+    {
+        "id": 79,
+        "name": "FINE/USDT",
+        "volume": 333.692487,
+        "rate": 0.7379,
+        "rateUsd": 0.7379,
+        "prevDayPrice": 0.7379
+    },
+    {
+        "id": 80,
+        "name": "BNB/BTC",
+        "volume": 0.08707218,
+        "rate": 0.010803,
+        "rateUsd": 509.6952627,
+        "prevDayPrice": 0.010803
+    },
+    {
+        "id": 81,
+        "name": "BNB/USDT",
+        "volume": 1538.1,
+        "rate": 414.55,
+        "rateUsd": 414.55,
+        "prevDayPrice": 414.55
+    },
+    {
+        "id": 82,
+        "name": "MEPAD/USDT",
+        "volume": 51.15595,
+        "rate": 0.095,
+        "rateUsd": 0.095,
+        "prevDayPrice": 0.095
+    },
+    {
+        "id": 83,
+        "name": "BUNNY/USDT",
+        "volume": 61.6,
+        "rate": 27.85,
+        "rateUsd": 27.85,
+        "prevDayPrice": 27.85
+    },
+    {
+        "id": 84,
+        "name": "FOOTBALLSTARS/USDT",
+        "volume": 1497.73661024,
+        "rate": 0.00001781,
+        "rateUsd": 0.00001781,
+        "prevDayPrice": 0.00001781
+    },
+    {
+        "id": 85,
+        "name": "BIFI/USDT",
+        "volume": 314.42,
+        "rate": 992.52,
+        "rateUsd": 992.52,
+        "prevDayPrice": 992.52
+    },
+    {
+        "id": 86,
+        "name": "VANITY/USDT",
+        "volume": 374.8819736,
+        "rate": 0.0012915,
+        "rateUsd": 0.0012915,
+        "prevDayPrice": 0.0012915
+    },
+    {
+        "id": 87,
+        "name": "DOGGY/USDT",
+        "volume": 92.41175,
+        "rate": 0.013,
+        "rateUsd": 0.013,
+        "prevDayPrice": 0.013
+    },
+    {
+        "id": 88,
+        "name": "EPS/USDT",
+        "volume": 192.251395,
+        "rate": 0.706,
+        "rateUsd": 0.706,
+        "prevDayPrice": 0.706
+    },
+    {
+        "id": 89,
+        "name": "HOGE/USDT",
+        "volume": 19.77738,
+        "rate": 0.00021,
+        "rateUsd": 0.00021,
+        "prevDayPrice": 0.00021
+    },
+    {
+        "id": 90,
+        "name": "10SET/USDT",
+        "volume": 11.32480809,
+        "rate": 2.9062,
+        "rateUsd": 2.9062,
+        "prevDayPrice": 2.9062
+    },
+    {
+        "id": 91,
+        "name": "SAITO/USDT",
+        "volume": 96.214645,
+        "rate": 0.007293,
+        "rateUsd": 0.007293,
+        "prevDayPrice": 0.007293
+    },
+    {
+        "id": 92,
+        "name": "NAOS/USDT",
+        "volume": 269.777058,
+        "rate": 0.6642,
+        "rateUsd": 0.6642,
+        "prevDayPrice": 0.6642
+    },
+    {
+        "id": 93,
+        "name": "TRONPAD/USDT",
+        "volume": 10.05342,
+        "rate": 0.12889,
+        "rateUsd": 0.12889,
+        "prevDayPrice": 0.12889
+    },
+    {
+        "id": 94,
+        "name": "WBTC/BTC",
+        "volume": 0.02640164,
+        "rate": 1.0012,
+        "rateUsd": 47237.517080000005,
+        "prevDayPrice": 1.0012
+    },
+    {
+        "id": 95,
+        "name": "USDC/USDT",
+        "volume": 499.389393,
+        "rate": 0.999,
+        "rateUsd": 0.999,
+        "prevDayPrice": 0.999
+    },
+    {
+        "id": 96,
+        "name": "BUSD/USDT",
+        "volume": 130.026996,
+        "rate": 0.9999,
+        "rateUsd": 0.9999,
+        "prevDayPrice": 0.9999
+    },
+    {
+        "id": 97,
+        "name": "DOGE/BTC",
+        "volume": 0.0227544,
+        "rate": 0.00000912,
+        "rateUsd": 0.43028980800000005,
+        "prevDayPrice": 0.00000912
+    },
+    {
+        "id": 98,
+        "name": "DOGE/USDT",
+        "volume": 1906.422128,
+        "rate": 0.33604,
+        "rateUsd": 0.33604,
+        "prevDayPrice": 0.33604
+    },
+    {
+        "id": 99,
+        "name": "BSCS/USDT",
+        "volume": 100.623829,
+        "rate": 0.0872,
+        "rateUsd": 0.0872,
+        "prevDayPrice": 0.0872
+    },
+    {
+        "id": 100,
+        "name": "TPAD/USDT",
+        "volume": 0.13834,
+        "rate": 0.13834,
+        "rateUsd": 0.13834,
+        "prevDayPrice": 0.13834
+    },
+    {
+        "id": 101,
+        "name": "FARA/USDT",
+        "volume": 10.37169955,
+        "rate": 0.39003,
+        "rateUsd": 0.39003,
+        "prevDayPrice": 0.39003
+    },
+    {
+        "id": 102,
+        "name": "EMAX/USDT",
+        "volume": 423.27185134,
+        "rate": 3.212e-8,
+        "rateUsd": 3.212e-8,
+        "prevDayPrice": 3.212e-8
+    },
+    {
+        "id": 103,
+        "name": "YLD/USDT",
+        "volume": 147.43643,
+        "rate": 0.3114,
+        "rateUsd": 0.3114,
+        "prevDayPrice": 0.3114
+    },
+    {
+        "id": 104,
+        "name": "OLY/USDT",
+        "volume": 23.093112,
+        "rate": 0.01883,
+        "rateUsd": 0.01883,
+        "prevDayPrice": 0.01883
+    },
+    {
+        "id": 105,
+        "name": "ZCX/USDT",
+        "volume": 163.29642,
+        "rate": 1.407,
+        "rateUsd": 1.407,
+        "prevDayPrice": 1.407
+    },
+    {
+        "id": 106,
+        "name": "VRX/USDT",
+        "volume": 114.9,
+        "rate": 363.89,
+        "rateUsd": 363.89,
+        "prevDayPrice": 363.89
+    },
+    {
+        "id": 107,
+        "name": "ALGO/BTC",
+        "volume": 0.01265176,
+        "rate": 0.00002614,
+        "rateUsd": 1.233308726,
+        "prevDayPrice": 0.00002614
+    },
+    {
+        "id": 108,
+        "name": "ALGO/USDT",
+        "volume": 15.000144,
+        "rate": 0.8601,
+        "rateUsd": 0.8601,
+        "prevDayPrice": 0.8601
+    },
+    {
+        "id": 109,
+        "name": "DFYN/USDT",
+        "volume": 223.03196,
+        "rate": 1.7471,
+        "rateUsd": 1.7471,
+        "prevDayPrice": 1.7471
+    },
+    {
+        "id": 110,
+        "name": "MLN/USDT",
+        "volume": 148.86,
+        "rate": 84.89,
+        "rateUsd": 84.89,
+        "prevDayPrice": 84.89
+    },
+    {
+        "id": 111,
+        "name": "FUSE/USDT",
+        "volume": 73.206724,
+        "rate": 0.05062,
+        "rateUsd": 0.05062,
+        "prevDayPrice": 0.05062
+    },
+    {
+        "id": 112,
+        "name": "CQT/USDT",
+        "volume": 180.036436,
+        "rate": 0.3898,
+        "rateUsd": 0.3898,
+        "prevDayPrice": 0.3898
+    },
+    {
+        "id": 113,
+        "name": "FORM/USDT",
+        "volume": 292.149968,
+        "rate": 0.2742,
+        "rateUsd": 0.2742,
+        "prevDayPrice": 0.2742
+    },
+    {
+        "id": 114,
+        "name": "SDAO/USDT",
+        "volume": 182.146137,
+        "rate": 1.3296,
+        "rateUsd": 1.3296,
+        "prevDayPrice": 1.3296
+    },
+    {
+        "id": 115,
+        "name": "BTCx5",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 116,
+        "name": "BTCx-5",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 117,
+        "name": "ETHx5",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 118,
+        "name": "ETHx-5",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 119,
+        "name": "BNBx-1",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 120,
+        "name": "BNBx3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 121,
+        "name": "BNBx-3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 122,
+        "name": "ADAx-1",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 123,
+        "name": "ADAx3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 124,
+        "name": "ADAx-3",
+        "volume": 0,
+        "rate": 1000,
+        "rateUsd": 1000,
+        "prevDayPrice": 1000
+    },
+    {
+        "id": 125,
+        "name": "OOE/USDT",
+        "volume": 709.80676,
+        "rate": 0.2197,
+        "rateUsd": 0.2197,
+        "prevDayPrice": 0.2197
+    },
+    {
+        "id": 126,
+        "name": "HOD/USDT",
+        "volume": 464.57112,
+        "rate": 0.0169,
+        "rateUsd": 0.0169,
+        "prevDayPrice": 0.0169
+    },
+    {
+        "id": 127,
+        "name": "COFI/USDT",
+        "volume": 44.07528,
+        "rate": 0.8223,
+        "rateUsd": 0.8223,
+        "prevDayPrice": 0.8223
+    },
+    {
+        "id": 128,
+        "name": "PERA/USDT",
+        "volume": 132.68232,
+        "rate": 0.2014,
+        "rateUsd": 0.2014,
+        "prevDayPrice": 0.2014
+    },
+    {
+        "id": 129,
+        "name": "HODL/USDT",
+        "volume": 12,
+        "rate": 1.9888e-8,
+        "rateUsd": 1.9888e-8,
+        "prevDayPrice": 1.9888e-8
+    },
+    {
+        "id": 130,
+        "name": "PHENIX/USDT",
+        "volume": 57.844984,
+        "rate": 8.3e-10,
+        "rateUsd": 8.3e-10,
+        "prevDayPrice": 8.3e-10
+    },
+    {
+        "id": 131,
+        "name": "GALA/USDT",
+        "volume": 40.80956,
+        "rate": 0.02708,
+        "rateUsd": 0.02708,
+        "prevDayPrice": 0.02708
+    },
+    {
+        "id": 132,
+        "name": "AQUAGOAT/USDT",
+        "volume": 10.94581281,
+        "rate": 2.02e-10,
+        "rateUsd": 2.02e-10,
+        "prevDayPrice": 2.02e-10
+    },
+    {
+        "id": 133,
+        "name": "FIWA/USDT",
+        "volume": 409.28173,
+        "rate": 0.02041,
+        "rateUsd": 0.02041,
+        "prevDayPrice": 0.02041
+    },
+    {
+        "id": 134,
+        "name": "BABY/USDT",
+        "volume": 107.94,
+        "rate": 0.7196,
+        "rateUsd": 0.7196,
+        "prevDayPrice": 0.7196
+    },
+    {
+        "id": 135,
+        "name": "OPS/USDT",
+        "volume": 246.5046,
+        "rate": 0.2151,
+        "rateUsd": 0.2151,
+        "prevDayPrice": 0.2151
+    },
+    {
+        "id": 136,
+        "name": "VEGA/USDT",
+        "volume": 10.45,
+        "rate": 20.65,
+        "rateUsd": 20.65,
+        "prevDayPrice": 20.65
+    },
+    {
+        "id": 137,
+        "name": "DYDX/USDT",
+        "volume": 11.85,
+        "rate": 12.06,
+        "rateUsd": 12.06,
+        "prevDayPrice": 12.06
+    },
+    {
+        "id": 138,
+        "name": "PING/USDT",
+        "volume": 946.41785279,
+        "rate": 0.02209,
+        "rateUsd": 0.02209,
+        "prevDayPrice": 0.02209
+    },
+    {
+        "id": 139,
+        "name": "ALD/USDT",
+        "volume": 7.4506422,
+        "rate": 0.5442,
+        "rateUsd": 0.5442,
+        "prevDayPrice": 0.5442
+    }
+]
