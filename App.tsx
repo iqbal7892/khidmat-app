@@ -16,7 +16,6 @@ import { Storage } from './src/helpers/storage';
 import NetInfo from '@react-native-community/netinfo';
 import {TNotification, NotificationType } from './src/helpers/notification';
 import ToastNotification from './src/components/Notification';
-import { LanguageProvider } from './LanguageContext';
 import { User } from './src/models/user';
 import { dispatchLoginState } from './src/redux/dispatch';
 import { AppSettings } from './src/config/config';
@@ -65,11 +64,9 @@ export default function App() {
     return (
       <GlobalProvider>
         <StatusBar style="dark" />
-        <LanguageProvider>
-          <Navigation colorScheme={'dark'} />
-          {AppSettings.isStagingEnv && <Text style={{fontSize: 12, textAlign: 'center'}}>Staging App</Text>}
-          <ToastNotification />
-        </LanguageProvider>
+        <Navigation colorScheme={'dark'} />
+        {AppSettings.isStagingEnv && <Text style={{fontSize: 12, textAlign: 'center'}}>Staging App</Text>}
+        <ToastNotification />
       </GlobalProvider>
     );
   }
